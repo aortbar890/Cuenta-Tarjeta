@@ -7,7 +7,8 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 public class TestCuenta {
-
+	// Intento controlar las excepciones que se me presentan
+	// sin modificar el codigo original dado
 	private Cuenta cuenta;
 
 	@BeforeEach
