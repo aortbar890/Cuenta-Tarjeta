@@ -59,7 +59,11 @@
 			<version>${junit.platform.version}</version>
 			<scope>test</scope>
 		</dependency>
-
+		<dependency>
+			<groupId>es.iessoterohernandez.daw.endes</groupId>
+			<artifactId>Persona</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
